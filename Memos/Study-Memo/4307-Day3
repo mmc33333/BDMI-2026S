@@ -1,0 +1,31 @@
+Machine Learning Concepts
+- supervised learning
+- unsupervised learning
+- reinforcement learning
+- deep learning
+- Machine Learning Tasks: Classification, Regression
+
+Scikit-Learn Pt 1
+- Model-based Learning vs Instance-based Learning
+- 2 Stages in model-based ML: modeling, model use
+- Introduction to Scikit-Learn
+- ML tools and software
+- Data Representation: Numpy ndarray, Scipy sparse, Cynthon
+- API design
+- use procedure: create model > train model > evaluate model > predict use model
+
+Scikit-Learn Pt 2: Supervised Learning
+- Data Preparation: create labeled data
+- Data visualization: Matplotlib, Scatter plot
+- Gaussian Naive Bayes
+Logistic Regression
+- Decision Tree
+- Support Vector Machine
+
+Scikit-Learn Pt 3:
+- Data pre-processing
+- Feature Transform
+- Splitting the dataset
+-Dividing the training set and test set
+- K-means
+- Gaussian Mixture Model

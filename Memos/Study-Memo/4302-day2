@@ -1,0 +1,127 @@
+# Week 2 Learning Summary – BDMI
+
+## 1. Experimental Platform and Environment Setup
+- Learned how to use the **BDMI experimental platform** for coding experiments.
+- The platform is accessed through a **web browser login**.
+- Environment includes:
+  - Python 3.7
+  - NumPy
+  - Pandas
+  - Matplotlib
+- Main working tool: **Jupyter Notebook**
+  - Runs in the browser
+  - Supports Python code and Markdown
+  - Code is executed in cells so results appear immediately.
+- Typical workflow:
+  - Login to the BDMI platform
+  - Access shared teaching notebooks
+  - Copy files to your personal directory before editing
+
+---
+
+## 2. Python Scientific Stack
+Learned about the **Python scientific stack**, which is widely used in data science and machine learning.
+
+Main libraries:
+- **NumPy** – numerical computing and matrix operations
+- **SciPy** – scientific and technical computing
+- **Matplotlib** – data visualization
+- **Pandas** – data analysis and data manipulation
+
+These libraries together form the foundation of many machine learning and data analysis workflows.
+
+---
+
+## 3. NumPy Basics
+NumPy is used for **efficient numerical computation and matrix operations**.
+
+Key concepts learned:
+- Creating arrays
+- Reshaping arrays
+- Performing element-wise arithmetic operations
+- Vectorized numerical calculations
+
+Example concept:
+- If two arrays `[1,2,3]` and `[4,5,6]` are added together, NumPy performs element-wise operations and produces `[5,7,9]`.
+
+Benefits of NumPy:
+- Faster numerical computation
+- Efficient matrix operations
+- Core library used by many machine learning frameworks
+
+---
+
+## 4. Random Number Generation
+Learned how to generate random numbers using **numpy.random**.
+
+Common probability distributions introduced:
+- **Uniform distribution**
+- **Normal distribution**
+- **Chi-square distribution**
+- **Poisson distribution**
+
+Example uses of random number generation:
+- Simulation
+- Statistical modeling
+- Machine learning experiments
+
+Application example:
+- Random numbers are the foundation of **Monte Carlo simulation**, a probability-based method used to approximate complex problems.
+
+Monte Carlo simulation can be used for:
+- Estimating π
+- Financial modeling
+- Risk simulation
+- Derivative pricing
+
+---
+
+## 5. Data Visualization with Matplotlib
+Matplotlib is a Python library used for **visualizing data through charts and plots**.
+
+Common types of charts:
+- Line plot
+- Scatter plot
+- Bar chart
+- 3D plots
+
+Key features learned:
+- Adding titles and axis labels
+- Plotting multiple lines in one graph
+- Adding grid and legend
+- Saving charts as image files
+
+Data visualization helps transform numerical data into **visual insights**, making patterns easier to understand.
+
+---
+
+## 6. Pandas Basics
+Pandas is a Python library used for **data manipulation and analysis**, especially structured data.
+
+Key data structures:
+
+**Series**
+- One-dimensional labeled array
+- Contains data values and index labels
+
+**DataFrame**
+- Two-dimensional table structure
+- Similar to an Excel spreadsheet
+- Contains rows and columns with labeled indices
+
+Common uses of Pandas:
+- Data cleaning
+- Data transformation
+- Data analysis
+- Data mining
+- Reading data from files such as CSV or Excel
+
+---
+
+## Key Takeaways
+- Learned how to use the **BDMI experimental platform and Jupyter Notebook**.
+- Understood the **Python scientific stack** used in data science.
+- Practiced **NumPy for numerical computation and matrix operations**.
+- Learned how to generate **random numbers and probability distributions**.
+- Visualized data using **Matplotlib**.
+- Manipulated structured datasets using **Pandas**.

@@ -1,0 +1,17 @@
+# Week 1 Learning Summary – Big Data and Machine Intelligence (BDMI)
+
+In the first week, I was introduced to the overall structure, objectives, and learning roadmap of the Big Data and Machine Intelligence (BDMI) course. The course focuses on the fundamental concepts and practical applications of data systems, machine learning, and deep learning. It aims to provide students with both theoretical understanding and hands-on experience in working with data-driven technologies. :contentReference[oaicite:0]{index=0}
+
+One of the key ideas discussed was the concept of **machine intelligence**, which refers to intelligent systems that analyze observed data using algorithms to make predictions or decisions. These systems combine computation, data, models, and algorithms, and are closely related to fields such as artificial intelligence, machine learning, and data science. :contentReference[oaicite:1]{index=1}
+
+The lecture also introduced the historical background of artificial intelligence. The term "Artificial Intelligence" was proposed during the Dartmouth Conference in 1956 by John McCarthy and Marvin Minsky, marking the formal beginning of AI as a scientific field. AI was defined as the science and engineering of creating intelligent machines, particularly intelligent computer programs. :contentReference[oaicite:2]{index=2}
+
+In addition, the course roadmap was presented. Students will learn about data systems, machine learning, and deep learning through tools such as **Python, Scikit-learn, TensorFlow, and Keras**. The course will also explore emerging technologies such as **large language models (LLMs)** and transformer architectures. The practical component of the course includes programming exercises and projects using these tools. :contentReference[oaicite:3]{index=3}
+
+Another important topic covered was the development of practical technical skills. The course emphasizes programming with Python, data analysis, and the use of machine learning frameworks. These skills are important not only for academic learning but also for future career development in artificial intelligence and data science. :contentReference[oaicite:4]{index=4}
+
+Besides the core technical content, we also learned about the tools that will be used throughout the course. These include **Markdown for writing documentation** and **Git/Gitee for version control and collaboration**. Markdown is a lightweight markup language that allows users to write structured documents easily, while Git helps manage code and project files efficiently in collaborative environments. :contentReference[oaicite:5]{index=5} :contentReference[oaicite:6]{index=6}
+
+Finally, the session included a team-building activity where students introduced themselves and discussed their backgrounds, interests, and strengths. This activity helped establish collaboration among students from different universities participating in the global hybrid course. :contentReference[oaicite:7]{index=7}
+
+Overall, this week provided a foundation for understanding the goals of the BDMI course and the tools and concepts that will be explored throughout the semester.

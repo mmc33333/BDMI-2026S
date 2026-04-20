@@ -1,0 +1,19 @@
+PyTorch Introduction
+- dynamic computational graph
+- nn.Module Base Class
+- Tensors & Gradients
+
+Convolutional Neural Networks
+- Architecture Components: Convolutional layers, pooling layers, normalisation layers
+- efficiency of CNN
+- Evolution & Application of CNN
+
+Transformer Principles & Large Models
+- Attention Mechanisms: self-attention, multi-head attention
+- Transformer tree: Encoder-only, decoder-only, encoder-decoder
+- Vision Transformer
+- Multi-modality
+
+Optimizing Model Parameters
+- 5-Step Training Loop
+- Hyperparameter Tuning

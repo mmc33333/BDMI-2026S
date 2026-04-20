@@ -1,0 +1,36 @@
+PyTorch Basics - Tensor
+- Tensor Index
+- Irregular tensor
+- sparse tensor 
+
+PyTorch Transforms
+- Format conversion
+- normalisation
+- lamda
+
+Automatic Differentiation
+- touch.autograd
+- computation graph
+- basic principles of deep learning
+- derivative operation: numerical differentiation, symbolic differentiation, automatic differentiation (forward mode, reverse mode) 
+- backpropagation and automatic differentiation
+- static and dynamic calculation graphs 
+
+Multiple Layer Neural Networks (MLNN) Fully Connected Network
+- structure of MLNN
+- connection pattern inter-layer
+- softmax 
+- Batch normalisation layer
+- Dropout layer 
+- image classification
+
+PyTorch Model
+- Overview
+- nn.Module class
+- Neural network layer type
+- relationship between module and layers
+- build a custom model
+- model training process
+- model saving and loading
+- troubleshooting
+- Cross-Device Compatibility with CPU and GPU

@@ -1,0 +1,27 @@
+Introduction to Python-based Platforms
+- Jupyter Hub
+- Python set-up 
+- VS Code
+
+Numpy
+- Introduction to Numpy package
+- Array creation
+- operators and array reshape
+
+Matplotlib
+- Scatter plot
+- Subplot
+- Pygal
+- Line plot
+- Bar Chart
+- Pie Chart
+- isobaric map contour plot
+- 3D plot
+
+Pandas
+- Defintion
+- Data structure: Series, Data Frame, Panel
+- IO Operation: Excel, CSV
+
+Seaborn (Advanced visualisation)
+- Applications (practice) with 3 different dataset

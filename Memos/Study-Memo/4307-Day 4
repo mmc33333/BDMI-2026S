@@ -1,0 +1,31 @@
+Deep Learning Theory
+- Artificial Neuron
+- Logistics Regression
+- Multi-layer Networks
+
+PyTorch basics
+- Installation
+- Tensor
+
+TensorFlow2
+- Playground basics
+- Spiral Line Problem
+
+Tensor
+- Tensor creation
+- Operation
+- Index
+- Special tensor representation
+
+Binary Classification
+- Performance indicators
+- Logistic regression
+- optimization method
+- Automatic training process
+
+Multiple Layer Neural Networks
+- representing multi-layer neural networks with tensors
+- softmax and logits transformation
+- how to update weights automatically
+- neural network training
+- definition and calculation of loss function
