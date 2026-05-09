@@ -25,9 +25,9 @@ Bring Your Laptop and smart phone  to Class.
 |   4    | [TorchAudio](https://docs.pytorch.org/audio/stable/index.html)   | 讲课 |  GM/MXD | 30 |    |
 
 
-| 时间段  |             内容           | 讲课 / 实践 | 分工 | 时间 | 备注 |
+| 时间段  |             内容         | 讲课 / 实践  |  分工 | 时间 | 备注 |
 | :----- | :-----------------------: | :----------: | :---: | ---: | :--- |
-|   5    | OpenAI Whisper            |   讲课        |   ZYS/MXD    |  15 分钟     |  | 
+|   5    | OpenAI Whisper            |   讲课        |   ZYS/MXD    |  15 分钟     | MAIC | 
 |   5    | 声控智能硬件彩灯演示         |   演示性实验     |   ZYS/MXD    |  15 分钟     |  |
 
 | 时间段  |    内容    |   讲课 / 实践     |    分工  | 时间 |  备注       |
